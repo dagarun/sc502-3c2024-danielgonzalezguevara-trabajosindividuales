@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.navbar a {
+    margin: 10px;
+}
+
+.perfil-doctor {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.nombre {
+    margin: 10px;
+}
+
+.especialidad {
+    margin: 10px;
+}
+
+#descripcion {
+    margin: 10px;
+    padding: 10px;
+}
+
+.comentarios {
+    margin: 20px;
+    padding: 20px;
+}
+
+.lista-comentarios {
+    display: flex;
+}
+
+.tarjeta {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid black;
+}
